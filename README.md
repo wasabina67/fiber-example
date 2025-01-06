@@ -6,3 +6,11 @@ Fiber example
 ```bash
 go run main.go
 ```
+
+```bash
+go build -o main
+```
+
+```bash
+./main
+```
