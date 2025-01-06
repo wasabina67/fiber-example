@@ -7,6 +7,8 @@ Fiber example
 go run main.go
 ```
 
+## Build
+
 ```bash
 go build -o main
 ```
